@@ -1,5 +1,5 @@
 # text
-x = 0
+x = 0 \n
 y = weidght
 weidght = w = pi
 print("Начинаю")
