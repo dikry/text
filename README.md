@@ -1,7 +1,7 @@
 # text
-x = 0
-y = weidght
-weidght = w = pi
+/n x = 0
+/n y = weidght
+/n weidght = w = pi
 print("Начинаю")
 time.sleep(1)
 def restar():
